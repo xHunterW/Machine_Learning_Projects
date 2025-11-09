@@ -23,8 +23,8 @@ Analyzes the performance of **PCA** versus an **autoencoder** for dimensionality
 
 ### [Supervised and Unsupervised ML Algorithm Demo](./Supervised_and_Unsupervised_ML_Algorithm_Demo)
 Two-part notebook:  
-1️⃣ Supervised learning on a **heart-disease** dataset — cleaning, encoding/scaling, cross-validated models (logistic, KNN, NB, SVM, RF, GB) with full metric reporting.  
-2️⃣ Unsupervised clustering of **mall customers** using PCA + KMeans/DBSCAN/GMM/hierarchical, evaluated via silhouette, ARI, and NMI.
+1. Supervised learning on a **heart-disease** dataset including cleaning, encoding/scaling, cross-validated models (logistic, KNN, NB, SVM, RF, GB) with full metric reporting.  
+2. Unsupervised clustering of **mall customers** using PCA + KMeans/DBSCAN/GMM/hierarchical clustering, evaluated via silhouette, ARI, and NMI.
 
 ---
 
@@ -35,7 +35,7 @@ Uses **kNN clustering** and **PCA visualization** to find subgroups within whole
 
 ### [Evolutionary Algorithm Evaluation](./Evolutionary_Algorithm_Evaluation)
 Compares **PSO**, **GA**, and **ES** on two tasks: feature selection (Breast Cancer) and MLP hyperparameter tuning (Digits). Tracks accuracy, convergence speed, evaluations, and runtime.  
-ES is most accurate and robust, GA most stable, PSO fastest but prone to stalling — illustrating exploration-exploitation trade-offs.
+ES is most accurate and robust, GA most stable, PSO fastest but prone to stalling, illustrating exploration-exploitation trade-offs.
 
 ---
 
@@ -46,16 +46,15 @@ Includes preprocessing, TF-IDF feature extraction, and clustering to classify ha
 ---
 
 ### [Decision Making Algorithm Evaluation](./Decision_Making_Algorithm_Evaluation)
-*Placeholder — summary to be added.*  
-Example: “Evaluates multiple decision-making and optimization frameworks (e.g., reinforcement learning, Bayesian decision trees, or Monte Carlo policy search) applied to strategic or resource allocation tasks.”
+Compares three decision-making paradigms including **Decision Trees, Monte Carlo Tree Search, and Markov Decision Processes** on tasks matched to their strengths: California Housing prediction, Tic-Tac-Toe planning, and FrozenLake navigation. It contrasts interpretability, scalability, and computational cost while showing how deterministic trees, simulation-based search, and probabilistic value iteration handle uncertainty and sequential decisions differently. Highlights practical trade-offs to guide algorithm selection by problem type.
 
 ---
 
-## 🧰 Tech Stack
-Python · NumPy · pandas · scikit-learn · TensorFlow · PyTorch · Matplotlib · Seaborn · Jupyter Notebook
+## Tech Stack
+Python · NumPy · pandas · scikit-learn · TensorFlow · PyTorch · Matplotlib · Seaborn · Jupyter Notebook · Huggingface
 
 ---
 
-## 📫 Contact
+## Contact
 Created by [Hunter Worssam](https://github.com/xHunterW)  
-Feel free to fork, explore, or connect for collaboration opportunities.
+Feel free to fork, explore, or connect for collaboration opportunities!
