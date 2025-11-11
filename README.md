@@ -41,7 +41,7 @@ ES is most accurate and robust, GA most stable, PSO fastest but prone to stallin
 
 ### [NLP for Twitter Hate Speech Detection](./NLP_For_Twitter_Hate_Speech_Detection)
 NLP project analyzing the **Kaggle Hate Speech and Offensive Language** dataset.  
-Includes preprocessing, TF-IDF feature extraction, and clustering to classify hate, offensive, and neutral tweets, evaluating normalization effects on model performance.
+Includes preprocessing, TF-IDF feature extraction, and clustering to classify hate, offensive, and neutral tweets, while also evaluating normalization effects on model performance.
 
 ---
 
