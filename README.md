@@ -12,7 +12,7 @@ This Jupyter notebook examines the use of *k-Nearest Neighbors* and *Regression*
 ---
 
 ### [Pre-trained Model Hub Comparison](./Pre-trained_Model_Hub_Comparison)
-Compares lightweight pretrained models across hubs for NLP (IMDb) and CV (CIFAR-10): **Hugging Face**, **PyTorch Hub**, **TF Hub**, and a scikit-learn baseline. Standardized preprocessing, fixed budgets, linear-probe vs light fine-tune. Reports F1 and F1/min with Apple-silicon tips.
+Compares lightweight pretrained models across hubs for NLP (IMDb) and Computer Vision (CIFAR-10): **Hugging Face**, **PyTorch Hub**, **TF Hub**, and a scikit-learn baseline. Standardized preprocessing, fixed budgets, linear-probe vs light fine-tune. Reports F1 and F1/min with Apple-silicon tips.
 
 ---
 
