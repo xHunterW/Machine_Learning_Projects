@@ -17,7 +17,7 @@ Compares lightweight pretrained models across hubs for NLP (IMDb) and Computer V
 ---
 
 ### [Unsupervised Learning for Dimensionality Reduction](./Unsupervised_Learning_for_Dimensionality_Reduction)
-Analyzes the performance of **PCA** versus an **autoencoder** for dimensionality reduction. Both techniques are compared using KMeans and DBSCAN clustering, evaluated via within-cluster metrics and classification accuracy to assess representation quality and separability.
+Analyzes the performance of **PCA** versus an **Autoencoder** for dimensionality reduction. Both techniques are compared using KMeans and DBSCAN clustering, evaluated via within-cluster metrics and classification accuracy to assess representation quality and separability.
 
 ---
 
