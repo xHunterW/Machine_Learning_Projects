@@ -23,7 +23,7 @@ Analyzes the performance of **PCA** versus an **Autoencoder** for dimensionality
 
 ### [Supervised and Unsupervised ML Algorithm Demo](./Supervised_and_Unsupervised_ML_Algorithm_Demo)
 Two-part notebook:  
-1. Supervised learning on a **heart-disease** dataset including cleaning, encoding/scaling, cross-validated models (logistic, KNN, NB, SVM, RF, GB) with full metric reporting.  
+1. Supervised learning on a **heart-disease** dataset including cleaning, encoding, scaling, cross-validated models (logistic, KNN, NB, SVM, RF, GB) with full metric reporting.  
 2. Unsupervised clustering of **mall customers** using PCA + KMeans/DBSCAN/GMM/hierarchical clustering, evaluated via silhouette, ARI, and NMI.
 
 ---
