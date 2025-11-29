@@ -29,7 +29,7 @@ Two-part notebook:
 ---
 
 ### [Consumer Data Segmentation and Churn Modeling](./Consumer_Data_Segmentation_And_Churn_Modeling)
-Uses **kNN clustering** and **PCA visualization** to find subgroups within wholesale consumer data, informing marketing strategy and product-demand forecasting. Highlights how clustering can guide actionable segmentation insights in real business data.
+Uses **kNN clustering** and **PCA visualization** to find subgroups within wholesale consumer data, informing marketing strategy and product-demand forecasting. Highlights how clustering can guide actionable consumer segmentation insights in real business data.
 
 ---
 
