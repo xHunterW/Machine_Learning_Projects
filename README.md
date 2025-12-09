@@ -56,7 +56,7 @@ Fine-tunes **FLAN-T5-Small** on an *Alice in Wonderland* question-answer dataset
 ---
 
 ### [Image Captioning and Object Detection](./Image_Captioning_and_Object_Detection)
-A comparative analysis of **Randomized Hill Climbing, Simulated Annealing, Genetic Algorithms, and MIMIC**.
+Implements a full multimodal deep-learning pipeline on the Flickr30k dataset, demonstrating image captioning, zero-shot classification, and visual grounding with state-of-the-art vision-language models. The notebook fine-tunes BLIP for conditional caption generation and evaluates the resulting model against the pretrained baseline using BLEU scores and qualitative comparisons. It then applies CLIP for zero-shot semantic classification and OWL-ViT for open-vocabulary object localization, highlighting how Transformer-based VLMs bridge image–text understanding across generation, retrieval, and grounding tasks.
 
 ---
 
