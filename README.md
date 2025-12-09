@@ -53,6 +53,13 @@ Compares three decision-making paradigms including **Decision Trees, Monte Carlo
 ### [Pre-trained LLM Tuning and Evaluation](./PreTrained_LLM_Tuning_and_Evaluation.html)
 Fine-tunes **FLAN-T5-Small** on an *Alice in Wonderland* question-answer dataset using the Hugging Face `datasets`, `transformers`, and `Trainer` APIs. The notebook compares three strategies for question answering—(1) fine-tuning alone, (2) few-shot prompt engineering, and (3) retrieval-augmented QA—and analyzes how model size and limited domain data affect hallucinations, validation loss, and overall answer quality.
 
+---
+
+### [Image Captioning and Object Detection](./Image_Captioning_and_Object_Detection)
+A comparative analysis of **Randomized Hill Climbing, Simulated Annealing, Genetic Algorithms, and MIMIC**.
+
+---
+
 ## Tech Stack
 Python · NumPy · pandas · scikit-learn · TensorFlow · PyTorch · Matplotlib · Seaborn · Jupyter Notebook · Huggingface
 
