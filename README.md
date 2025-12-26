@@ -35,7 +35,7 @@ Uses **kNN clustering** and **PCA visualization** to find subgroups within whole
 
 ### [Evolutionary Algorithm Evaluation](./Evolutionary_Algorithm_Evaluation)
 Compares **PSO**, **GA**, and **ES** on two tasks: feature selection (Breast Cancer data) and MLP hyperparameter tuning (Digits). Tracks accuracy, convergence speed, evaluations, and runtime.  
-ES is most accurate and robust, GA most stable, PSO fastest but prone to stalling, illustrating exploration-exploitation trade-offs.
+ES is most accurate and robust, GA is most stable, PSO fastest but prone to stalling, illustrating exploration-exploitation trade-offs.
 
 ---
 
