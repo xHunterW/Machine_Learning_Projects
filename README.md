@@ -1,6 +1,6 @@
 # Machine Learning Projects
 A curated collection of graduate level data science and machine learning projects.  
-Each notebook explores a different technique, from classical supervised models and clustering to evolutionary algorithms, NLP, pre-trained models and dimensionality reduction, with reproducible workflows and visual analyses.
+Each notebook explores a different technique ranging from classical supervised models and clustering to evolutionary algorithms, NLP, pre-trained models and dimensionality reduction, with reproducible workflows and visual analyses for each.
 
 ---
 
